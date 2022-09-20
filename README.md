@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of the solution](./screenshot.jpg)
+![Screenshot of the solution](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [See the code on GitHub](https://your-solution-url.com)
-- Live Site URL: [View live site](https://your-live-site-url.com)
+- Solution URL: [See the code on GitHub](https://github.com/KristinaRadosavljevic/QR-code-component)
+- Live Site URL: [View live site](https://qr-code-component-beta-pearl.vercel.app/)
 
 ## My process
 
@@ -34,9 +34,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+This was a very simple project which did not teach me much in terms of HTML/CSS, but it did give me an opportunity to get familiar with the deployment procedure on Vercel, particularly how different environments work.
+
 ### Continued development
 
+Since this project was very simple, it lacks responsiveness (apart from using the `max-width` property). Therefore, I am going to focus more on this area in the future projects.
+
 ### Useful resources
+
+I did get an opportunity to refresh my knowledge on how the `box-shadow` CSS property works. To that end, I used [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) as a resource.
 
 ## Author
 
